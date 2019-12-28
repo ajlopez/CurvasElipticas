@@ -15,6 +15,9 @@
 
 ## Criptografía
 
+- [Blockchain 101 - Elliptic Curve Cryptography](https://eng.paxos.com/blockchain-101-elliptic-curve-cryptography)
+- [A (relatively easy to understand) primer on elliptic curve cryptography](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [Elliptic Curve Crypto , The Basics](https://hackernoon.com/eliptic-curve-crypto-the-basics-e8eb1e934dc5)
 - [Elliptic Curve Cryptography: a gentle introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 - [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 - [Elliptic Curve Cryptography (ECC)](https://www.garykessler.net/library/crypto.html#ecc)
