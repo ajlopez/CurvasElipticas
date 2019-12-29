@@ -28,3 +28,8 @@
 - [An Introduction to Elliptic Curve Cryptography](https://www.purplealienplanet.com/node/27)
 - [Elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
 
+## Software para gráficos
+
+- [Project Jupiter](https://jupyter.org/)
+- [Matpotlib Python plotting](https://matplotlib.org/)
+
