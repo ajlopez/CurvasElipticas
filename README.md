@@ -13,7 +13,11 @@
 - [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire)
 - [A Solitaire Game and Its Relation to a Finite Field](http://alexandria.tue.nl/repository/freearticles/598441.pdf)
 
-## Criptografía
+## Curvas Elípticas
+
+- [On Computing the Rank of Elliptic Curves](https://www.math.colostate.edu/~achter/math/brown.pdf)
+
+# Criptografía
 
 - [Blockchain 101 - Elliptic Curve Cryptography](https://eng.paxos.com/blockchain-101-elliptic-curve-cryptography)
 - [A (relatively easy to understand) primer on elliptic curve cryptography](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
