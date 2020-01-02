@@ -31,6 +31,7 @@
 - [ECC Tutorial](https://www.certicom.com/content/certicom/en/ecc-tutorial.html)
 - [An Introduction to Elliptic Curve Cryptography](https://www.purplealienplanet.com/node/27)
 - [Elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
+- [BLS signatures: better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 
 ## Software para gráficos
 
