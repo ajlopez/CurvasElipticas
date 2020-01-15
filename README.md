@@ -32,6 +32,7 @@
 - [An Introduction to Elliptic Curve Cryptography](https://www.purplealienplanet.com/node/27)
 - [Elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
 - [BLS signatures: better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
+- [Win10 Crypto Vulnerability: Cheating in Elliptic Curve Billiards 2](https://medium.com/zengo/win10-crypto-vulnerability-cheating-in-elliptic-curve-billiards-2-69b45f2dcab6)
 
 ## Software para gráficos
 
