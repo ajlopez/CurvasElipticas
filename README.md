@@ -16,6 +16,9 @@
 ## Curvas Elípticas
 
 - [On Computing the Rank of Elliptic Curves](https://www.math.colostate.edu/~achter/math/brown.pdf)
+- [Hasse's theorem on elliptic curves](https://en.wikipedia.org/wiki/Hasse%27s_theorem_on_elliptic_curves)
+- [Schoof's algorithm](https://en.wikipedia.org/wiki/Schoof%27s_algorithm)
+- [Schoof–Elkies–Atkin algorithm](https://en.wikipedia.org/wiki/Schoof%E2%80%93Elkies%E2%80%93Atkin_algorithm)
 
 # Criptografía
 
