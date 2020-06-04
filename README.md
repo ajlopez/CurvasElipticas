@@ -16,6 +16,9 @@
 ## Curvas Elípticas
 
 - [On Computing the Rank of Elliptic Curves](https://www.math.colostate.edu/~achter/math/brown.pdf)
+- [History of elliptic curves rank records](https://web.math.pmf.unizg.hr/~duje/tors/rankhist.html)
+- [Elliptic Curve with Rank 20, Elkies-Klagsburn (2020)](https://web.math.pmf.unizg.hr/~duje/tors/rkeq20.html)
+- [Ranks of Elliptic Curves](https://math.berkeley.edu/~molsson/KConrad-ranks.pdf)
 - [Hasse's theorem on elliptic curves](https://en.wikipedia.org/wiki/Hasse%27s_theorem_on_elliptic_curves)
 - [Schoof's algorithm](https://en.wikipedia.org/wiki/Schoof%27s_algorithm)
 - [Schoof–Elkies–Atkin algorithm](https://en.wikipedia.org/wiki/Schoof%E2%80%93Elkies%E2%80%93Atkin_algorithm)
