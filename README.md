@@ -23,6 +23,7 @@
 - [Schoof's algorithm](https://en.wikipedia.org/wiki/Schoof%27s_algorithm)
 - [Schoof–Elkies–Atkin algorithm](https://en.wikipedia.org/wiki/Schoof%E2%80%93Elkies%E2%80%93Atkin_algorithm)
 - [What does “birational equivalence” mean in a cryptographic context?](https://crypto.stackexchange.com/questions/43013/what-does-birational-equivalence-mean-in-a-cryptographic-context)
+- [An Elementary Introduction to Elliptic Curves](https://cs.nyu.edu/courses/spring05/G22.3220-001/ec-intro1.pdf)
 
 # Criptografía
 
