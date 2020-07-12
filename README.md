@@ -2,7 +2,7 @@
 
 Una típica curva elíptica:
 
-<img src="https://latex.codecogs.com/gif.latex?y%5E3%20%3D%20x%5E2%20&plus;%20ax%20&plus;%20b" width="200%" alt="y^3 = x^2 + ax + b"/>
+<img src="https://latex.codecogs.com/gif.latex?y%5E3%20%3D%20x%5E2%20&plus;%20ax%20&plus;%20b" alt="y^3 = x^2 + ax + b"/>
 
 ## Geometría Algebraica
 
@@ -52,4 +52,10 @@ Una típica curva elíptica:
 
 - [Project Jupiter](https://jupyter.org/)
 - [Matpotlib Python plotting](https://matplotlib.org/)
+
+## LaTeX en Markdown
+
+- [Online LaTeX Equation Editor](https://www.codecogs.com/latex/eqneditor.php)
+- [Latex rendering in README.md on Github](https://stackoverflow.com/questions/35498525/latex-rendering-in-readme-md-on-github)
+- [A hack for showing LaTeX formulas in GitHub markdown](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b)
 
