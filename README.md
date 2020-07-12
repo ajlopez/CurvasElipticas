@@ -2,7 +2,7 @@
 
 Una típica curva elíptica:
 
-<img src="https://latex.codecogs.com/gif.latex?y%5E3%20%3D%20x%5E2%20&plus;%20ax%20&plus;%20b" alt="y^3 = x^2 + ax + b"/>
+<img src="https://latex.codecogs.com/gif.latex?y%5E3%20%3D%20x%5E2%20&plus;%20ax%20&plus;%20b" alt="y^3 = x^2 + ax + b" style="width: 200%; height: 200%"/>
 
 ## Geometría Algebraica
 
