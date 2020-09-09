@@ -47,6 +47,14 @@ Una típica curva elíptica:
 - [Win10 Crypto Vulnerability: Cheating in Elliptic Curve Billiards 2](https://medium.com/zengo/win10-crypto-vulnerability-cheating-in-elliptic-curve-billiards-2-69b45f2dcab6)
 - [ECDSA: Handle with Care](https://blog.trailofbits.com/2020/06/11/ecdsa-handle-with-care/)
 - [Minerva: The curse of ECDSA nonces](https://eprint.iacr.org/2020/728.pdf)
+- [Elliptic Curve Cryptography For Those Who Hate Maths](https://medium.com/swlh/elliptic-curve-cryptography-for-those-who-hate-maths-c68c5970ff87)
+
+### BLS12-381
+
+- [Understanding BLS12-381 Curve](https://crypto.stackexchange.com/questions/62183/understanding-bls12-381-curve)
+- [BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381)
+- [BLS12-381: New zk-SNARK Elliptic Curve Construction](https://electriccoin.co/blog/new-snark-curve/)
+- [Challenges with Assessing the Impact of NFS Advances on the Security of Pairing-based Cryptography](https://eprint.iacr.org/2016/1102.pdf)
 
 ## Software para gráficos
 
