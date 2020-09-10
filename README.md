@@ -48,6 +48,11 @@ Una típica curva elíptica:
 - [ECDSA: Handle with Care](https://blog.trailofbits.com/2020/06/11/ecdsa-handle-with-care/)
 - [Minerva: The curse of ECDSA nonces](https://eprint.iacr.org/2020/728.pdf)
 - [Elliptic Curve Cryptography For Those Who Hate Maths](https://medium.com/swlh/elliptic-curve-cryptography-for-those-who-hate-maths-c68c5970ff87)
+- [Optimizing curve-based cryptography](https://research.tue.nl/files/58659703/20170316_Chuengsatiansup.pdf)
+- [Hashing to Elliptic Curves](https://tools.ietf.org/html/draft-irtf-cfrg-hash-to-curve-09)
+- [Pairing-Friendly Curves](https://tools.ietf.org/html/draft-irtf-cfrg-pairing-friendly-curves-02)
+
+
 
 ### BLS12-381
 
@@ -55,6 +60,9 @@ Una típica curva elíptica:
 - [BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381)
 - [BLS12-381: New zk-SNARK Elliptic Curve Construction](https://electriccoin.co/blog/new-snark-curve/)
 - [Challenges with Assessing the Impact of NFS Advances on the Security of Pairing-based Cryptography](https://eprint.iacr.org/2016/1102.pdf)
+- [draft-irtf-cfrg-bls-signature-02](https://tools.ietf.org/html/draft-irtf-cfrg-bls-signature-02)
+- [bls12-381, a pairing-friendly Barreto-Lynn-Scott elliptic curve construction](https://github.com/paulmillr/noble-bls12-381)
+
 
 ## Software para gráficos
 
