@@ -52,7 +52,9 @@ Una típica curva elíptica:
 - [Hashing to Elliptic Curves](https://tools.ietf.org/html/draft-irtf-cfrg-hash-to-curve-09)
 - [Pairing-Friendly Curves](https://tools.ietf.org/html/draft-irtf-cfrg-pairing-friendly-curves-02)
 
+### Secp256k1
 
+- [Secp256k1 Bitcoin Wiki](https://en.bitcoin.it/wiki/Secp256k1)
 
 ### BLS12-381
 
