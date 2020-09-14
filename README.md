@@ -64,7 +64,8 @@ Una típica curva elíptica:
 - [Challenges with Assessing the Impact of NFS Advances on the Security of Pairing-based Cryptography](https://eprint.iacr.org/2016/1102.pdf)
 - [draft-irtf-cfrg-bls-signature-02](https://tools.ietf.org/html/draft-irtf-cfrg-bls-signature-02)
 - [bls12-381, a pairing-friendly Barreto-Lynn-Scott elliptic curve construction](https://github.com/paulmillr/noble-bls12-381)
-
+- [BSLT by Supranational](https://github.com/supranational/blst)
+- [BSLT Audit](https://notes.ethereum.org/@djrtwo/blst-rfp)
 
 ## Software para gráficos
 
