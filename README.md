@@ -51,6 +51,8 @@ Una típica curva elíptica:
 - [Optimizing curve-based cryptography](https://research.tue.nl/files/58659703/20170316_Chuengsatiansup.pdf)
 - [Hashing to Elliptic Curves](https://tools.ietf.org/html/draft-irtf-cfrg-hash-to-curve-09)
 - [Pairing-Friendly Curves](https://tools.ietf.org/html/draft-irtf-cfrg-pairing-friendly-curves-02)
+- [Bitcoin key mechanism and elliptic curves over finite fields](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
+- [Adding Points in Elliptic Curve Cryptography](https://medium.com/asecuritysite-when-bob-met-alice/adding-points-in-elliptic-curve-cryptography-a1f0a1bce638)
 
 ### Secp256k1
 
