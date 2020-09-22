@@ -68,6 +68,7 @@ Una típica curva elíptica:
 - [bls12-381, a pairing-friendly Barreto-Lynn-Scott elliptic curve construction](https://github.com/paulmillr/noble-bls12-381)
 - [BSLT by Supranational](https://github.com/supranational/blst)
 - [BSLT Audit](https://notes.ethereum.org/@djrtwo/blst-rfp)
+- [Fuzzing the BLS-Precompiles](https://medium.com/coinmonks/fuzzing-the-bls-precompiles-ba3728dec622)
 
 ## Software para gráficos
 
