@@ -53,6 +53,7 @@ Una típica curva elíptica:
 - [Pairing-Friendly Curves](https://tools.ietf.org/html/draft-irtf-cfrg-pairing-friendly-curves-02)
 - [Bitcoin key mechanism and elliptic curves over finite fields](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
 - [Adding Points in Elliptic Curve Cryptography](https://medium.com/asecuritysite-when-bob-met-alice/adding-points-in-elliptic-curve-cryptography-a1f0a1bce638)
+- [Hal Finney’s Proposal for Optimizing Bitcoin to be Enabled in Bitcoin Core](https://www.btctimes.com/news/hal-finneys-proposal-for-optimizing-bitcoin-to-be-enabled-in-bitcoin-core)
 
 ### Secp256k1
 
