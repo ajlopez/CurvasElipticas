@@ -63,6 +63,7 @@ Una típica curva elíptica:
 
 ### BLS12-381
 
+- [BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381)
 - [Understanding BLS12-381 Curve](https://crypto.stackexchange.com/questions/62183/understanding-bls12-381-curve)
 - [BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381)
 - [BLS12-381: New zk-SNARK Elliptic Curve Construction](https://electriccoin.co/blog/new-snark-curve/)
